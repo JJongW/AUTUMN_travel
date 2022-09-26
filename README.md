@@ -1,1 +1,1 @@
-# Git_One
+# AUTUMN의 여행앱 
